@@ -22,3 +22,6 @@ com.ec.test.etiqueta = START
 texto agregado remotamente
 cambsio otro usuario
 termianr prueba git flow
+
+hotfix v1.2
+pruebas git flow
