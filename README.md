@@ -17,3 +17,5 @@ continuando pruebas git flow
 final archivo compilado
 
 com.ec.test.etiqueta = START
+texto agregado remotamente
+cambsio otro usuario
