@@ -15,3 +15,5 @@ texto agregado desde hotfix v1.0
 continuando pruebas git flow
 
 final archivo compilado
+
+com.ec.test.etiqueta = START
