@@ -12,3 +12,5 @@ termianr prueba git flow
 
 hotfix v1.2
 pruebas git flow
+
+hotfix v2.0
